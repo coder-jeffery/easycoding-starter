@@ -1,0 +1,2 @@
+0org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.easycoding.kylin.starter.redis.config.RedisAutoConfig
