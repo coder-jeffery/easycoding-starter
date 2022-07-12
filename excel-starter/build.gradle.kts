@@ -6,5 +6,4 @@ dependencies {
     annotationProcessor("org.projectlombok:lombok:1.18.10")
     compileOnly("org.projectlombok:lombok:1.18.10")
     compile("commons-lang:commons-lang:2.6")
-
 }
